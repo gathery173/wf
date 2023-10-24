@@ -1,6 +1,5 @@
 from flet import *
 from data import get_classes, edit_class, delete_class, add_class
-from flet_route import Params, Basket
 
 def AdminClassesView(page):
 
